@@ -12,7 +12,7 @@
      * @type {string}
      */
     var BASE62_TABLE =
-          '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+          '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
 
     /**
      * 62進数を10進数に変換します。
